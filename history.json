@@ -1,0 +1,10 @@
+[
+  {
+    "version": "1.1.0",
+    "url": "https://jayun21.github.io/charge-planner-updates/bundles/charge-planner-1.1.0.zip",
+    "sha256": "e89a3979e3faba684f2b13da8e16a9cf451aa6e011964a48d2b1dfe14418da17",
+    "bytes": 110648,
+    "publishedAt": "2026-10-22T18:51:29.325Z",
+    "notes": "Initial over-the-air baseline, same as APK 1.1.0"
+  }
+]
