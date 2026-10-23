@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.1.1",
+    "url": "https://jayun21.github.io/charge-planner-updates/bundles/charge-planner-1.1.1.zip",
+    "sha256": "edf497ea9292bd572aeccffb8ee8cf60e0abfb4d35e342cd1c50132c80d4e5b5",
+    "bytes": 111475,
+    "publishedAt": "2026-10-23T11:46:51.969Z",
+    "notes": "Fix GPS marker visibility, house-number address search, and EA commercial chargers along routes"
+  },
+  {
     "version": "1.1.0",
     "url": "https://jayun21.github.io/charge-planner-updates/bundles/charge-planner-1.1.0.zip",
     "sha256": "e89a3979e3faba684f2b13da8e16a9cf451aa6e011964a48d2b1dfe14418da17",
