@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
-  "url": "https://jayun21.github.io/charge-planner-updates/bundles/charge-planner-1.1.1.zip",
-  "sha256": "edf497ea9292bd572aeccffb8ee8cf60e0abfb4d35e342cd1c50132c80d4e5b5",
-  "bytes": 111475,
-  "publishedAt": "2026-10-23T11:46:51.969Z",
-  "notes": "Fix GPS marker visibility, house-number address search, and EA commercial chargers along routes"
+  "version": "1.1.2",
+  "url": "https://jayun21.github.io/charge-planner-updates/bundles/charge-planner-1.1.2.zip",
+  "sha256": "83bcb4c55c6eb6d2090491ff401a57fc035674d14070ebc8ea1ec19d9c84eef0",
+  "bytes": 111494,
+  "publishedAt": "2026-10-23T12:01:12.780Z",
+  "notes": "Fix native updater checksum validation and reuse downloaded updates; includes GPS, address, and charger fixes. Original 1.1.0 installations need the replacement 1.1.2 APK once."
 }
