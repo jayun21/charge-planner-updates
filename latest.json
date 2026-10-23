@@ -1,8 +1,8 @@
 {
-  "version": "1.1.3",
-  "url": "https://jayun21.github.io/charge-planner-updates/bundles/charge-planner-1.1.3.zip",
-  "sha256": "3aa454668ad550c055c2ff8d5e7d18867a297082a651a9e842948e844f45e101",
-  "bytes": 111823,
-  "publishedAt": "2026-10-23T12:36:28.464Z",
-  "notes": "Show verified NYPA pricing for EVolve NY Henrietta and Dansville at $0.47 per kWh plus tax, with before-tax cost estimates and source details."
+  "version": "1.1.4",
+  "url": "https://jayun21.github.io/charge-planner-updates/bundles/charge-planner-1.1.4.zip",
+  "sha256": "92d0a994cb14469246f4854b2131f3e3755c520feb3439f3530a9affe6e4fa58",
+  "bytes": 115689,
+  "publishedAt": "2026-10-23T13:19:01.814Z",
+  "notes": "Plan complete road trips from the entered battery percentages with a 15% arrival reserve, skip unnecessary charging, verify charger road legs, and minimize estimated driving plus charging time. Use free Valhalla driving estimates without live traffic; preserve charge readings and trip continuation."
 }
