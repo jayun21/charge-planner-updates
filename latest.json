@@ -1,8 +1,8 @@
 {
-  "version": "1.1.2",
-  "url": "https://jayun21.github.io/charge-planner-updates/bundles/charge-planner-1.1.2.zip",
-  "sha256": "83bcb4c55c6eb6d2090491ff401a57fc035674d14070ebc8ea1ec19d9c84eef0",
-  "bytes": 111494,
-  "publishedAt": "2026-10-23T12:01:12.780Z",
-  "notes": "Fix native updater checksum validation and reuse downloaded updates; includes GPS, address, and charger fixes. Original 1.1.0 installations need the replacement 1.1.2 APK once."
+  "version": "1.1.3",
+  "url": "https://jayun21.github.io/charge-planner-updates/bundles/charge-planner-1.1.3.zip",
+  "sha256": "3aa454668ad550c055c2ff8d5e7d18867a297082a651a9e842948e844f45e101",
+  "bytes": 111823,
+  "publishedAt": "2026-10-23T12:36:28.464Z",
+  "notes": "Show verified NYPA pricing for EVolve NY Henrietta and Dansville at $0.47 per kWh plus tax, with before-tax cost estimates and source details."
 }
